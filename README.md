@@ -33,6 +33,3 @@ Senior Web Developer 🕸️ specializing in front end development 🎓. I'm a p
 <a href="https://github.com/Flowko">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowko&theme=buefy&layout=compact" />
 </a>
-<a href="https://gitlab.com/flowko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowko&theme=buefy&layout=compact" />
-</a>
