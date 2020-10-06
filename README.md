@@ -22,7 +22,7 @@ Senior Web Developer 🕸️ specializing in front end development 🎓. I'm a p
 
 - 🔭 I’m currently working with Node.js, Express.js, VueJs, Asp.Net 💻.
 - 👯 I’m working on new projects to learn more about the best practices to up my coding skills.
-- 📫 How to reach me: younestdi19@gmail.com | [Twitter](https://twitter.com/flowko_) | [Github](https://github.com/Flowko) | [Instagram](https://www.instagram.com/flowkooo/) | Portfolio - coming soon
+- 📫 How to reach me: younestdi19@gmail.com | [Twitter](https://twitter.com/flowko_) | [Github](https://github.com/Flowko) | [Instagram](https://www.instagram.com/flowkooo/) | [GitLab](https://gitlab.com/flowko) | Portfolio - coming soon
 - 💻 I have worked on C#, Java (Android), HTML/CSS, Javascript, VueJs, Nodejs, Expressjs, MySQL,  React, Git, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - I ❤️ to think, learn, code, and customize everything
